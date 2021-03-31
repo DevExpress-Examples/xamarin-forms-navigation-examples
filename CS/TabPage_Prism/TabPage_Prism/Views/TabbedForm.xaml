@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation:TabPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:navigation="http://schemas.devexpress.com/xamarin/2014/forms/navigation"
+             xmlns:views="clr-namespace:TabPage_Prism.Views;assembly=TabPage_Prism"
+             x:Class="TabPage_Prism.Views.TabbedForm"
+             HeaderPanelPosition="Bottom">
+    
+    <navigation:TabPageItem>
+        <views:TabA Title="A"/>
+    </navigation:TabPageItem>
+    
+    <navigation:TabPageItem>
+        <views:TabB Title="B" />
+    </navigation:TabPageItem>
+</navigation:TabPage>
