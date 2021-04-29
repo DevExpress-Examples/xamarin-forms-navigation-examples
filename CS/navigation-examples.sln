@@ -6,11 +6,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabPage_Prism.Android", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabPage_Prism.iOS", "TabPage_Prism\TabPage_Prism.iOS\TabPage_Prism.iOS.csproj", "{D3A4CF4D-C7AA-412A-B203-49766B4BF3EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism", "TabView_Prism\TabView_Prism\TabView_Prism\TabView_Prism.csproj", "{C06343B7-5190-42E7-BB30-8454AF37EF25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism", "TabView_Prism\TabView_Prism\TabView_Prism.csproj", "{C06343B7-5190-42E7-BB30-8454AF37EF25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.Android", "TabView_Prism\TabView_Prism\TabView_Prism.Android\TabView_Prism.Android.csproj", "{0B93FB5A-CDF1-487D-852C-479A4C6AA9E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.Android", "TabView_Prism\TabView_Prism.Android\TabView_Prism.Android.csproj", "{0B93FB5A-CDF1-487D-852C-479A4C6AA9E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.iOS", "TabView_Prism\TabView_Prism\TabView_Prism.iOS\TabView_Prism.iOS.csproj", "{50DC1471-E1EA-47B9-AC1F-A32B029D2816}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.iOS", "TabView_Prism\TabView_Prism.iOS\TabView_Prism.iOS.csproj", "{50DC1471-E1EA-47B9-AC1F-A32B029D2816}"
 EndProject
 Global
 GlobalSection(SolutionConfigurationPlatforms) = preSolution

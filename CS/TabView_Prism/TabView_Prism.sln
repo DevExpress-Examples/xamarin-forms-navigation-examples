@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism", "TabView_Prism\TabView_Prism\TabView_Prism.csproj", "{053A240F-4D85-4314-8DCB-78627C99D41F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism", "TabView_Prism\TabView_Prism.csproj", "{053A240F-4D85-4314-8DCB-78627C99D41F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.Android", "TabView_Prism\TabView_Prism.Android\TabView_Prism.Android.csproj", "{0B93FB5A-CDF1-487D-852C-479A4C6AA9E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.Android", "TabView_Prism.Android\TabView_Prism.Android.csproj", "{0B93FB5A-CDF1-487D-852C-479A4C6AA9E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.iOS", "TabView_Prism\TabView_Prism.iOS\TabView_Prism.iOS.csproj", "{50DC1471-E1EA-47B9-AC1F-A32B029D2816}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabView_Prism.iOS", "TabView_Prism.iOS\TabView_Prism.iOS.csproj", "{50DC1471-E1EA-47B9-AC1F-A32B029D2816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
