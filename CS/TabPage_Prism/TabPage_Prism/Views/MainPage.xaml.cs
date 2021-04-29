@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace TabPage_Prism {
+namespace TabPage_Prism.Views {
 	public partial class MainPage : ContentPage {
 		public MainPage() {
 			InitializeComponent();

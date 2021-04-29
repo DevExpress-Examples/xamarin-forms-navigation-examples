@@ -14,6 +14,7 @@ namespace TabPage_Prism {
 			containerRegistry.RegisterScoped<INavigationService, CustomNavigationService>();
 			containerRegistry.RegisterSingleton<IPageBehaviorFactory, CustomPageBehaviorFactory>();
 			
+			containerRegistry.RegisterForNavigation<MainPage>();
 			containerRegistry.RegisterForNavigation<TabbedForm>();
 			containerRegistry.RegisterForNavigation<TabA>();
 			containerRegistry.RegisterForNavigation<TabB>();
@@ -22,7 +23,7 @@ namespace TabPage_Prism {
 		protected override void OnInitialized() {
 			InitializeComponent();
 
-			NavigationService.NavigateAsync(nameof(TabbedForm) + "?selectedTab=TabB");
+			NavigationService.NavigateAsync(nameof(MainPage));
 		}
 	}
 }
